@@ -1,0 +1,11 @@
+/* CSS Document */
+.adminpage {width:1200px; height:500px; margin-left:100px; height:1000px;}
+.box {color:white; font-size:20px; font-weight:bolder; }
+.box1 {width:20%; height:100px; background-color:#615EA0; float:left; margin-right:30px; border-radius:7px; margin-bottom:20px;}
+.box2 {width:20%; height:100px; background-color:#6DAC65; float:left; margin-right:30px; border-radius:7px;}
+.box3 {width:20%; height:100px; background-color:#534C4D; float:left; margin-right:30px; border-radius:7px;}
+.box4 {width:20%; height:100px; background-color:#C05759; float:left; margin-right:30px; border-radius:7px;}
+
+.line-example {height:400px; width:1000px; clear:both;}
+.content1  {width:1000px;  height:300px; background-color:#F3F3F3; border-radius:20px; box-shadow:5px 5px 5px 5px #E5E3E3;	}
+.content1_left {width:50%; margin-top:30px; margin-left:30px;} 
